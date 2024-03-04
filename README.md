@@ -9,6 +9,8 @@
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/C%23-A8B9CC?style=for-the-badge&logo=C%23&logoColor=white">
           <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
+          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
     </div>
     <br>
       <h4> 배우고 있는, 사용하고 있는 기술 </h4> 
