@@ -4,7 +4,7 @@
 </br>
 <div align= "center">
     <h3> 🛠️ 기술 스택 </h3>
-    <h4> 배우고 싶은 기술 </h4> 
+    <h4> 학습 예정 기술 </h4> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/C%23-A8B9CC?style=for-the-badge&logo=C%23&logoColor=white">
@@ -13,12 +13,17 @@
           <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
     </div>
     <br>
-      <h4> 배우고 있는, 사용하고 있는 기술 </h4> 
+    <h4> 배우고 있는 기술 </h4> 
+      <div style="margin: 0 auto; text-align: center;" align= "center"> 
+          <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
+          <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+    </div>
+     <br>
+      <h4> 사용하고 있는 기술 </h4> 
       <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
     </div>
      <br>
       <h4> 사용 했던 기술 </h4> 
