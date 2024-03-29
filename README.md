@@ -6,7 +6,7 @@
     <h3> 🛠️ 기술 스택 </h3>
     <h4> 학습 예정 기술 </h4> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
-          <img src="https://img.shields.io/badge/Babylon.js-000000?style=for-the-badge&logo=BABYLON.js&logoColor=white">
+          <img src="https://img.shields.io/badge/Babylon.js-FE5F50?style=for-the-badge&logo=BABYLON.js&logoColor=white">
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
           <img src="https://img.shields.io/badge/C%23-A8B9CC?style=for-the-badge&logo=C%23&logoColor=white">
           <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
