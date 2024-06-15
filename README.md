@@ -1,56 +1,19 @@
-<div align= "center"> 
-    <h3> 🏃 새로운 것을 계속 배워가고 싶은 개발자 정슬호</h3>  
+<div> 
+    <h3> ✏️ 회고 및 고찰 포스팅</h3>
+    <li> <a href="https://jeongseulho.github.io/diary/SSAFY-10%EA%B8%B0-%EC%8B%A4%EC%8A%B5%EC%BD%94%EC%B9%98-%ED%9A%8C%EA%B3%A0/"> 10기 실습코치 회고 </a> </li>
+    
 </div>
-</br>
-<div align= "center">
-    <h3> 🛠️ 기술 스택 </h3>
-    <h4> 학습 예정 기술 </h4> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
-          <img src="https://img.shields.io/badge/Babylon.js-FE5F50?style=for-the-badge&logo=BABYLON.js&logoColor=white">
-          <img src="https://img.shields.io/badge/C%23-A8B9CC?style=for-the-badge&logo=C%23&logoColor=white">
-          <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white">
-          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white">
-    </div>
-    <br>
-    <h4> 배우고 있는 기술 </h4> 
-      <div style="margin: 0 auto; text-align: center;" align= "center"> 
-          <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white">
-          <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-          <img src="https://img.shields.io/badge/gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">
-    </div>
-     <br>
-      <h4> 사용하고 있는 기술 </h4> 
-      <div style="margin: 0 auto; text-align: center;" align= "center"> 
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-    </div>
-     <br>
-      <h4> 사용 했던 기술 </h4> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-      <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-    </div>
+<div> 
+    <h3> 📱 기술 포스팅</h3>  
+    <li> <a href="https://jeongseulho.github.io/tech/2023-10-01-React-Suspense/"> React Suspense를 사용한 선언적 프로그래밍 </a> </li>
+    <li> <a href="https://jeongseulho.github.io/tech/2023-08-20-Context-API-%EC%B5%9C%EC%A0%81%ED%99%94/"> Context API 최적화 </a> </li>
+    <li> <a href="https://jeongseulho.github.io/tech/2023-09-22-%EB%B3%B5%EC%9E%A1%ED%95%9C-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EC%83%81%ED%83%9C-useReducer%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/"> 복잡한 객체의 상태 useReducer로 관리하기 </a> </li>
 </div>
 <br>
-<div align= "center"> 
-    <h3> ✏️ 블로그</h3>  
-    <a href="https://jeongseulho.github.io/"> 블로그 링크 </a>
-</div>
-<br>
-<div align= "center"> 
+<div> 
     <h3> 💻 프로그래밍 교육/경력</h3>  
-    <li> 삼성소프트웨어아카데미 10기 실습코치 : 개발 교육 코칭 (2023.12.26 ~ 현재)
-    <li> 삼성소프트웨어아카데미 9기 : 웹 개발 교육 (2023.1.2 ~ 2023.12.22)
-    <li> (주)에이아이트론 : C++ / Arduino 개발 (2022.6.29 ~ 2022.8.26)
-    <li> (주)비피 : C++ / Arduino 개발 (2021.12.22 ~ 2021.2.18)
+    <li> 삼성소프트웨어아카데미 10기 실습코치 : 개발 코칭 업무 수행 (2023.12.26 ~ 2023.05.31)
+    <li> 삼성소프트웨어아카데미 9기 교육생 : 웹 개발 교육 수료 (2023.1.2 ~ 2023.12.22)
+    <li> (주)에이아이트론 개발팀 : C++ / Arduino, 압력센서를 사용한 스마트 매트 프로토타입 개발 (2022.6.29 ~ 2022.8.26)
+    <li> (주)비피 개발팀 : C++ / Arduino, 교육용 아두이노 키트 개발 (2021.12.22 ~ 2021.2.18)
 </div>
